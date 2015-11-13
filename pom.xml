@@ -52,6 +52,7 @@
 
 	<properties>
 		<tycho-version>0.23.1</tycho-version>
+		<tycho.surefire.extra.vmargs></tycho.surefire.extra.vmargs>
 	</properties>
   
 	<profiles>
@@ -74,7 +75,7 @@
 				</os>
 			</activation>
 			<properties>
-				<tycho.surefire.extra.vmargs>-Xmx512m -XX:MaxPermSize=256m -XstartOnFirstThread</tycho.surefire.extra.vmargs>
+				<tycho.surefire.extra.vmargs>-XstartOnFirstThread</tycho.surefire.extra.vmargs>
 			</properties>
 		</profile>
 				
