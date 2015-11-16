@@ -58,6 +58,9 @@
 	<profiles>
 		<profile>
 			<id>e45</id>
+			<properties>
+				<platform.version>e45</platform.version>
+			</properties>
 			<repositories>
 				<repository>
 					<id>mars</id>
