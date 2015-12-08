@@ -53,6 +53,7 @@
 	<properties>
 		<tycho-version>0.23.1</tycho-version>
 		<tycho.surefire.extra.vmargs></tycho.surefire.extra.vmargs>
+		<aspectj-maven-compiler-version>1.8</aspectj-maven-compiler-version>
 	</properties>
   
 	<profiles>
