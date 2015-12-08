@@ -31,7 +31,7 @@
 		<module>org.eclipse.contribution.xref-feature</module>
 		
 		<module>org.eclipse.equinox.weaving.aspectj</module>
-		<module>org.eclipse.equinox.weaving.feature</module>
+		<module>org.eclipse.equinox.weaving.sdk</module>
 		
 		<!-- Tests -->
 		<module>org.eclipse.ajdt.core.tests</module>

@@ -30,7 +30,7 @@
        <category name="org.eclipse.ajdt.source"/>
     </feature>
 
-    <feature id="org.eclipse.equinox.weaving.feature">
+    <feature id="org.eclipse.equinox.weaving.sdk">
        <category name="org.eclipse.ajdt.other"/>
     </feature>
 

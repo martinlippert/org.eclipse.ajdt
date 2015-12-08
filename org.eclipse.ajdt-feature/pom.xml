@@ -28,7 +28,7 @@
 							<excludes>
 								<plugin id="org.eclipse.aspectj"/>
 								<plugin id="org.eclipse.ajdt.doc.user"/>
-								<feature id="org.eclipse.equinox.weaving.feature"/>
+								<feature id="org.eclipse.equinox.weaving.sdk"/>
 							</excludes>
 						</configuration>
 					</execution>

@@ -83,7 +83,7 @@
 					<dependencies>
 						<dependency>
 							<type>p2-installable-unit</type>
-							<artifactId>org.eclipse.equinox.weaving.feature.feature.group</artifactId>
+							<artifactId>org.eclipse.equinox.weaving.sdk.feature.group</artifactId>
 							<version>1.2.0</version>
 						</dependency>
 					</dependencies>
@@ -134,7 +134,7 @@
 							</requirement>
 							<requirement>
 								<type>eclipse-feature</type>
-								<id>org.eclipse.equinox.weaving.feature</id>
+								<id>org.eclipse.equinox.weaving.sdk</id>
 								<versionRange>0.0.0</versionRange>
 							</requirement>
 						</extraRequirements>

@@ -18,7 +18,7 @@ Igor Fedorenko - initial implementation
 	</parent>
 
 	<groupId>org.eclipse.ajdt</groupId>
-	<artifactId>org.eclipse.equinox.weaving.feature</artifactId>
+	<artifactId>org.eclipse.equinox.weaving.sdk</artifactId>
 	<version>1.2.0-SNAPSHOT</version>
 	<packaging>eclipse-feature</packaging>
 
