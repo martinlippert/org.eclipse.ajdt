@@ -61,6 +61,7 @@
 			<id>e45</id>
 			<properties>
 				<platform.version>e45</platform.version>
+				<weaving.hook.version>1.1.100.v20140821-1915</weaving.hook.version>
 			</properties>
 			<repositories>
 				<repository>
@@ -75,6 +76,7 @@
 			<id>e46</id>
 			<properties>
 				<platform.version>e46</platform.version>
+				<weaving.hook.version>1.1.200.v20150730-1648</weaving.hook.version>
 			</properties>
 			<repositories>
 				<repository>
